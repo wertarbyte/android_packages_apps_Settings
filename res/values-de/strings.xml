@@ -1044,8 +1044,8 @@
     <string name="vpn_openvpn_advanced_titlebar">Erweiterte OpenVPN-Einstellungen</string>
     <string name="vpn_openvpn_comp_lzo">LZO-Kompression</string>
     <string name="vpn_openvpn_comp_lzo_summary">LZO-Kompression erzwingen</string>
-    <string name="vpn_openvpn_redirect_gateway_title">Gateway Weiterleitung</string>
-    <string name="vpn_openvpn_redirect_gateway_summary">Erzwingen, den gesamten Verkehr durch den VPN-Tunnel zu leiten.</string>
+    <string name="vpn_openvpn_redirect_gateway_title">Gateway-Umleitung</string>
+    <string name="vpn_openvpn_redirect_gateway_summary">Den gesamten Datenverkehr durch den VPN-Tunnel leiten</string>
     <string name="vpn_openvpn_set_addr">Entfernter Server setzt Adressen</string>
     <string name="vpn_openvpn_set_addr_summary">Abwählen, um Tunneladressen manuell einzustellen.</string>
     <string name="vpn_openvpn_set_local_addr">Lokale IP-Addresse</string>
