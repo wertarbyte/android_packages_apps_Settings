@@ -353,7 +353,7 @@
     <string name="wifi_ip_settings_menu_save" msgid="7296724066102908366">"Speichern"</string>
     <string name="wifi_ip_settings_menu_cancel" msgid="6582567330136502340">"Abbrechen"</string>
     <string name="wifi_ip_settings_invalid_ip" msgid="8057085083985255580">"Bitte geben Sie eine gültige IP-Adresse ein."</string>
-    <string name="wifi_use_static_ip" msgid="2133464242165642230">"Statische IP verwenden"</string>
+    <string name="wifi_use_static_ip" msgid="2133464242165642230">"Statische Einstellungen verwenden"</string>
     <string name="wifi_ip_address" msgid="1440054061044402918">"IP-Adresse"</string>
     <string name="wifi_dns1" msgid="7344118050720080045">"DNS 1"</string>
     <string name="wifi_dns2" msgid="1368601006824882659">"DNS 2"</string>
@@ -367,7 +367,7 @@
     <string name="wifi_setting_num_channels_summary" msgid="4889355096717099141">"Anzahl an zu verwendenden Kanälen festlegen"</string>
     <string name="wifi_setting_num_channels_error" msgid="5765443843427870721">"Beim Einrichten der Domain ist ein Problem aufgetreten."</string>
     <string name="wifi_setting_num_channels_channel_phrase" msgid="1269381923672908636">"<xliff:g id="NUM_CHANNELS">%1$d</xliff:g> Kanäle"</string>
-    <string name="wifi_setting_sleep_policy_title" msgid="1367731352485585528">"WLAN Standby-Richtlinie"</string>
+    <string name="wifi_setting_sleep_policy_title" msgid="1367731352485585528">"WLAN-Standby-Richtlinie"</string>
     <string name="wifi_setting_sleep_policy_summary" msgid="7573693311804602041">"Festlegen, wann von WLAN auf Mobilfunk umgeschaltet werden soll"</string>
     <string name="wifi_setting_sleep_policy_error" msgid="5103670439972135148">"Beim Einrichten der Standby-Richtlinie ist ein Problem aufgetreten."</string>
     <string name="wifi_advanced_mac_address_title" msgid="6571335466330978393">"MAC-Adresse"</string>
@@ -441,7 +441,7 @@
     <string name="audio_record_proc_summary" msgid="8113628457499616498">"Geräusche beim Sprechen oder Aufnehmen unterdrücken"</string>
 
     <!-- Sound settings screen, setting screen option name to enter menu to choose what silent mode affects -->
-    <string name="silent_mode_settings_title">Lautlos-Modus Einstellungen</string>
+    <string name="silent_mode_settings_title">Lautlos-Modus-Einstellungen</string>
     <!-- Sound settings screen, setting option summary text -->
     <string name="silent_mode_settings_summary">Auswählen, welche Klänge stummgeschaltet werden sollen.</string>
 
@@ -459,9 +459,9 @@
     <string name="silent_mode_settings_music_title">Musik</string>
     <string name="silent_mode_settings_alarm_title">Alarme</string>
     <string name="silent_mode_settings_notification_title">Benachrichtigungen</string>
-    <string name="silent_mode_settings_bluetooth_title">Bluetooth Ausgabe</string>
+    <string name="silent_mode_settings_bluetooth_title">Bluetooth-Ausgabe</string>
     <string name="silent_mode_settings_system_enforced_title">Erzwungene Systemklänge</string>
-    <string name="silent_mode_settings_dtmf_title">DTMF Töne</string>
+    <string name="silent_mode_settings_dtmf_title">DTMF-Töne</string>
     <string name="silent_mode_settings_tts_title">Text-in-Sprache</string>
 
     <string name="silent_mode_settings_voice_call_summary">Stummschalten aktiver Anrufe im Lautlos-Modus.</string>
@@ -653,7 +653,7 @@
     <string name="terms_title" msgid="7697580845616764642">"Nutzungsbedingungen"</string>
     <string name="system_tutorial_list_item_title" msgid="9082844446660969729">"Systemanleitung"</string>
     <string name="system_tutorial_list_item_summary" msgid="3861815254521030201">"So verwenden Sie Ihr Telefon"</string>
-    <string name="settings_license_activity_title" msgid="7553683406244228650">"Open Source-Lizenzen"</string>
+    <string name="settings_license_activity_title" msgid="7553683406244228650">"Open-Source-Lizenzen"</string>
     <string name="settings_license_activity_unavailable" msgid="4210539215951487627">"Beim Laden der Lizenzen ist ein Problem aufgetreten."</string>
     <string name="settings_license_activity_loading" msgid="3337535809093591740">"Wird geladen..."</string>
     <string name="settings_safetylegal_title" msgid="1289483965535937431">"Sicherheitsinformationen"</string>
@@ -1039,8 +1039,8 @@
     <string name="vpn_openvpn_port">Serverport</string>
     <string name="vpn_openvpn_protocol">Protokoll</string>
     <string name="vpn_openvpn_device">Gerät wählen</string>
-    <string name="vpn_openvpn_userauth">Benutzer Authentifizierung</string>
-    <string name="vpn_openvpn_userauth_summary">Einschalten, wenn zusätzliche Name/Passwort Authentifizierung benutzt werden soll.</string>
+    <string name="vpn_openvpn_userauth">Benutzer-Authentifizierung</string>
+    <string name="vpn_openvpn_userauth_summary">Einschalten, wenn zusätzliche Name/Passwort-Authentifizierung benutzt werden soll.</string>
     <string name="vpn_openvpn_advanced_titlebar">Erweiterte OpenVPN-Einstellungen</string>
     <string name="vpn_openvpn_comp_lzo">LZO-Kompression</string>
     <string name="vpn_openvpn_comp_lzo_summary">LZO-Kompression erzwingen</string>
@@ -1110,7 +1110,7 @@
     <string name="please_wait">Bitte warten</string>
     <string name="moving_app">App wird verschoben</string>
     <!-- Proxy settings -->
-    <string name="proxy_setting">Proxy Einstellungen</string>
+    <string name="proxy_setting">Proxy-Einstellungen</string>
     <string name="proxy_setting_summary">Konfiguriere einen Proxy-Server für Internetzugriff</string>
     <string name="proxy_wifi_only">Proxy nur bei WLAN</string>
 </resources>
