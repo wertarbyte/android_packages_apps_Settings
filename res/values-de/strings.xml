@@ -207,16 +207,16 @@
     <string name="settings_label" msgid="1626402585530130914">"Einstellungen"</string>
     <string name="settings_shortcut" msgid="3672145147925639262">"Einstellungen"</string>
     <string name="airplane_mode" msgid="8837269988154128601">"Flugmodus"</string>
-    <string name="airplane_mode_summary" msgid="3154817401368780988">"Alle drahtlosen Verbindungen deaktivieren"</string>
-    <string name="airplane_mode_turning_on" msgid="8871739222526957255">"Drahtlosverbindungen werden deaktiviert..."</string>
-    <string name="airplane_mode_turning_off" msgid="3393168549611505996">"Drahtlosverbindungen werden aktiviert..."</string>
-    <string name="radio_controls_title" msgid="5868688473587168882">"Drahtlos und Netzwerke"</string>
-    <string name="wireless_networks_settings_title" msgid="149274247949769551">"Einstellungen für Drahtlosnetzwerke"</string>
-    <string name="radio_controls_summary" msgid="2998818677094465517">"WLAN, Bluetooth, Flugmodus, mobile Netzwerke und VPNs verwalten"</string>
+    <string name="airplane_mode_summary" msgid="3154817401368780988">"Alle Funkverbindungen deaktivieren"</string>
+    <string name="airplane_mode_turning_on" msgid="8871739222526957255">"Funkverbindungen werden deaktiviert..."</string>
+    <string name="airplane_mode_turning_off" msgid="3393168549611505996">"Funkverbindungen werden aktiviert..."</string>
+    <string name="radio_controls_title" msgid="5868688473587168882">"Mobilfunk- und Datennetze"</string>
+    <string name="wireless_networks_settings_title" msgid="149274247949769551">"Einstellungen für Funknetze"</string>
+    <string name="radio_controls_summary" msgid="2998818677094465517">"WLAN, Bluetooth, Flugmodus, Mobilfunketze und VPNs verwalten"</string>
     <string name="roaming" msgid="3596055926335478572">"Daten-Roaming"</string>
     <string name="roaming_enable" msgid="3737380951525303961">"Bei Roaming mit Datendienst verbinden"</string>
     <string name="roaming_disable" msgid="1295279574370898378">"Bei Roaming mit Datendienst verbinden"</string>
-    <string name="roaming_reenable_message" msgid="9141007271031717369">"Die Datenkonnektivität wurde unterbrochen, da Sie Ihr Heimnetzwerk verlassen haben und Daten-Roaming nicht aktiviert ist."</string>
+    <string name="roaming_reenable_message" msgid="9141007271031717369">"Die Datenkonnektivität wurde unterbrochen, da Sie Ihr Heimatnetz verlassen haben und Daten-Roaming nicht aktiviert ist."</string>
     <string name="roaming_turn_it_on_button" msgid="4387601818162120589">"Aktivieren"</string>
     <string name="roaming_warning" msgid="1269870211689178511">"Daten-Roaming zulassen? Es können beträchtliche Roaming-Gebühren anfallen!"</string>
     <string name="roaming_reenable_title" msgid="7626425894611573131">"Achtung"</string>
@@ -225,8 +225,8 @@
     <string name="date_and_time_settings_title" msgid="3350640463596716780">"Datum und Uhrzeit"</string>
     <string name="date_and_time_settings_summary" msgid="2435705040205950381">"Datum, Uhrzeit, Zeitzone und Formate festlegen"</string>
     <string name="date_time_auto" msgid="3086083265745944725">"Automatisch"</string>
-    <string name="date_time_auto_summaryOn" msgid="9034585614665299846">"Vom Netzwerk bereitgestellte Werte verwenden"</string>
-    <string name="date_time_auto_summaryOff" msgid="3900356736797266448">"Vom Netzwerk bereitgestellte Werte verwenden"</string>
+    <string name="date_time_auto_summaryOn" msgid="9034585614665299846">"Vom Netz bereitgestellte Werte verwenden"</string>
+    <string name="date_time_auto_summaryOff" msgid="3900356736797266448">"Vom Netz bereitgestellte Werte verwenden"</string>
     <string name="date_time_24hour" msgid="1193032284921000063">"24-Stunden-Format"</string>
     <string name="date_time_set_time" msgid="5716856602742530696">"Uhrzeit festlegen"</string>
     <string name="date_time_set_timezone" msgid="5045627174274377814">"Zeitzone auswählen"</string>
@@ -368,7 +368,7 @@
     <string name="wifi_setting_num_channels_error" msgid="5765443843427870721">"Beim Einrichten der Domain ist ein Problem aufgetreten."</string>
     <string name="wifi_setting_num_channels_channel_phrase" msgid="1269381923672908636">"<xliff:g id="NUM_CHANNELS">%1$d</xliff:g> Kanäle"</string>
     <string name="wifi_setting_sleep_policy_title" msgid="1367731352485585528">"WLAN Standby-Richtlinie"</string>
-    <string name="wifi_setting_sleep_policy_summary" msgid="7573693311804602041">"Festlegen, wann von WLAN auf mobile Daten umgeschaltet werden soll"</string>
+    <string name="wifi_setting_sleep_policy_summary" msgid="7573693311804602041">"Festlegen, wann von WLAN auf Mobilfunk umgeschaltet werden soll"</string>
     <string name="wifi_setting_sleep_policy_error" msgid="5103670439972135148">"Beim Einrichten der Standby-Richtlinie ist ein Problem aufgetreten."</string>
     <string name="wifi_advanced_mac_address_title" msgid="6571335466330978393">"MAC-Adresse"</string>
 
@@ -551,8 +551,8 @@
     <string name="status_min_number" msgid="3519504522179420597">"MIN"</string>
     <string name="status_prl_version" msgid="8499039751817386529">"PRL-Version"</string>
     <string name="status_meid_number" msgid="1751442889111731088">"MEID"</string>
-    <string name="status_network_type" msgid="3279383550222116235">"Mobiler Netzwerktyp"</string>
-    <string name="status_data_state" msgid="5503181397066522950">"Mobiler Netzwerkstatus"</string>
+    <string name="status_network_type" msgid="3279383550222116235">"Mobilfunknetz-Typ"</string>
+    <string name="status_data_state" msgid="5503181397066522950">"Mobilfunknetz-Status"</string>
     <string name="status_service_state" msgid="2323931627519429503">"Servicestatus"</string>
     <string name="status_signal_strength" msgid="3732655254188304547">"Signalstärke"</string>
     <string name="status_roaming" msgid="2638800467430913403">"Roaming"</string>
@@ -627,12 +627,12 @@
     <string name="media_format_gesture_explanation" msgid="4239529439389660159">"Sie müssen Ihr Entsperrungsmuster eingeben, um eine SD-Karten-Formatierung zu bestätigen."</string>
     <string name="call_settings_title" msgid="5188713413939232801">"Anrufeinstellungen"</string>
     <string name="call_settings_summary" msgid="7291195704801002886">"Mailbox, Rufweiterleitung, Anklopfen, Anruferkennung einrichten"</string>
-    <string name="network_settings_title" msgid="7967552516440151852">"Mobile Netzwerke"</string>
+    <string name="network_settings_title" msgid="7967552516440151852">"Mobilfunknetze"</string>
     <string name="network_settings_summary" msgid="5149750850846813553">"Optionen für Roaming, Netzwerke, APNs festlegen"</string>
     <string name="location_title" msgid="1029961368397484576">"Mein Standort"</string>
-    <string name="location_network_based" msgid="8815705866861993344">"Drahtlosnetzwerke nutzen"</string>
-    <string name="location_networks_disabled" msgid="2708968452901433980">"Standort über Drahtlosnetzwerke anzeigen (z.B. in Google Maps)"</string>
-    <string name="location_neighborhood_level" msgid="4656658097932515921">"Standort bestimmt von WLAN und/oder mobilen Netzwerken"</string>
+    <string name="location_network_based" msgid="8815705866861993344">"Funknetze nutzen"</string>
+    <string name="location_networks_disabled" msgid="2708968452901433980">"Standort über Funknetze bestimmen (z.B. in Google Maps)"</string>
+    <string name="location_neighborhood_level" msgid="4656658097932515921">"Standort WLAN und/oder Mobilfunknetzen bestimmen"</string>
     <string name="location_gps" msgid="6296125378829097831">"GPS-Satelliten verwenden"</string>
     <string name="location_street_level" msgid="6460740847018275745">"Auf Straßenebene lokalisieren (deaktivieren, um Akku zu sparen)"</string>
     <string name="location_gps_disabled" msgid="6632537158777308128">"Auf Straßenebene lokalisieren (höherer Akkuverbrauch, im Freien)"</string>
